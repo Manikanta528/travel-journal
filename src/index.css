@@ -1,6 +1,19 @@
 *{
     box-sizing: border-box;
+    margin: 0;
 }
 body{
-    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+.nav-bar{
+    background-color: #F55A5A;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    gap: 8px
+}
+.icon{
+
 }
